@@ -1,0 +1,5 @@
+alias thmvpn='sudo openvpn ~/Downloads/midalien.ovpn'
+alias ..='cd ..'
+alias ...='cd ../..'
+alias cdt='cd ~/Documents/thm'
+alias ssh-basf='ssh zimt@192.168.0.64'
